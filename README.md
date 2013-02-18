@@ -1,9 +1,17 @@
 ntent
 =====
 
-Twitter Intent Analysis
+Twitter Intent Analysis Dashboard
 
 
+Dependencies (pip install <dep>)
+================================
+- django
+- tweepy
+
+
+References
+===========
 http://knoesis.org/library/resource.php?id=00558
 
 http://knoesis.org/library/resource.php?id=00561
