@@ -8,6 +8,8 @@ Dependencies (pip install <dep>)
 ================================
 - django
 - tweepy
+- pymongo
+
 
 
 References
